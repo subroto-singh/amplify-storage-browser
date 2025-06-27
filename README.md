@@ -40,7 +40,7 @@ This template equips you with a foundational React application integrated with A
 1. Clone this repository
    ```bash
    git clone <repository-url>
-   cd sample-amplify-storage-browser
+   cd amplify-storage-browser
    ```
 
 2. Install dependencies
